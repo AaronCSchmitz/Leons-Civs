@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Great Mosque of Djenne",
+		"culture": 1,
+		"faith": 3,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": [
+			"Gain a free [Mosque] [in this city]",
+			"Only available <after adopting [Piety]>",
+			"Only available <when religion is enabled>",
+			"All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
+			"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
+			"All newly-trained [Paladin] units [in this city] receive the [Devout] promotion"
+		],
+		"requiredTech": "Theology",
+		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
+	},
+	{
+        "name": "East India Company", 
+        "cost": 125,
+        "gold": 4,
+        "isNationalWonder": true,
+        "uniques": [
+			"[+4 Gold] from each Trade Route",
+            "Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city"
+		],
+        "requiredTech": "Guilds"
+    },
+	{
+        "name": "Factions",
+		"uniqueTo": "Lamplight",
+		"replaces": "East India Company",
+        "cost": 125,
+        "gold": 4,
+        "isNationalWonder": true,
+        "uniques": [
+			"[+1 Culture] from every specialist [in all cities connected to capital]",
+            "Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+		],
+        "requiredTech": "Guilds"
+    },
+	{
+		"name": "Chronicler",
+		"uniqueTo": "Lamplight",
+		"replaces": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"uniques": [
+			"[+1 Gold] per [4] population [in this city]"
+		],
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+	{
+		"name": "Sky Citadel",
+		"production":6,
+		"greatPersonPoints": {"Great Engineer": 3},
+		"isWonder": true,
+		"maintenance": 0,
+		"uniques": [
+			"Gain [4] [Culture] <upon constructing [All] [in all cities]> <hidden from users>",
+			"Comment [Grants +4 [Culture] upon constructing a building in any city]",
+			"Gain a free [Factory] [in this city]",
+			"Must have an owned [Mountain] within [2] tiles",
+			"[2] free [Builder] units appear"
+		],
+		"requiredTech": "Steam Power",
+		"quote": "'May your dreams be monumental.' - Moradin"
+	},
+	{
+		"name": "Sunlight Beacon",
+		"faith":6,
+		"happiness":2,
+		"isWonder": true,
+		"maintenance": 0,
+		"uniques": [
+			"Gain a free [Observatory] [in this city]", "Only available <when religion is enabled>",
+            "All newly-trained [Military] units [in this city] receive the [Holy Warrior I] promotion",
+			"[2] free [Paladin] units appear <in this city>"
+		],
+		"requiredTech": "Astronomy",
+		"quote": "'Even the smallest act of kindness shines brightly in the face of darkness.' - Pelor"
+	},
+	{
+		"name": "Hoover Dam",
+		"production": 5,
+		"percentStatBonus": {"production": 15}
+		"greatPersonPoints": {"Great Engineer": 2},
+		"isWonder": true,
+		"maintenance": 0,
+		"uniques": [
+			"Must be on [River]",
+			"[+1 Production] from [River] tiles [in this city]",
+			"[+2 Gold] from [River] tiles [in this city]",
+			"Gain a free [Hydro Plant] [in this city]",
+			"Comment [+10% Strength vs [America], [Rome], and [Giant Death Robot]s]"
+		],
+		"requiredTech": "Electricity",
+		"quote": "'This morning I came, I saw, and I was conquered, as everyone would be who sees for the first time this great feat of mankind. Ten years ago the place where we gathered was an unpeopled, forbidding desert. In the bottom of the gloomy canyon whose precipitous walls rose to a height of more than 1,000ft, flowed a turbulent, dangerous river. The transformation here in these years is a 20th century marvel.' - Franklin D. Roosvelt"
+	}
+]

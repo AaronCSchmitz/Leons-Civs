@@ -1,0 +1,363 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingPortraits/Chronicler
+  rotate: false
+  xy: 1518, 883
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+BuildingPortraits/East India Company
+  rotate: false
+  xy: 200, 57
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Factions
+  rotate: false
+  xy: 650, 619
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hoover Dam
+  rotate: false
+  xy: 1661, 883
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sky Citadel
+  rotate: false
+  xy: 793, 619
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sunlight Beacon
+  rotate: false
+  xy: 1804, 883
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Atoll
+  rotate: false
+  xy: 547, 510
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Atoll
+  rotate: false
+  xy: 547, 510
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Coast
+  rotate: false
+  xy: 475, 382
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Coast
+  rotate: false
+  xy: 475, 382
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Desert
+  rotate: false
+  xy: 547, 446
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Desert
+  rotate: false
+  xy: 547, 446
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Grassland
+  rotate: false
+  xy: 475, 318
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Grassland
+  rotate: false
+  xy: 475, 318
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hill
+  rotate: false
+  xy: 547, 382
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Hill
+  rotate: false
+  xy: 547, 382
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mountain
+  rotate: false
+  xy: 547, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Mountain
+  rotate: false
+  xy: 547, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Oasis
+  rotate: false
+  xy: 475, 254
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Oasis
+  rotate: false
+  xy: 475, 254
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Plains
+  rotate: false
+  xy: 547, 246
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Plains
+  rotate: false
+  xy: 547, 246
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Snow
+  rotate: false
+  xy: 1947, 873
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Snow
+  rotate: false
+  xy: 1947, 873
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Tundra
+  rotate: false
+  xy: 1945, 809
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Tundra
+  rotate: false
+  xy: 1945, 809
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+LeaderIcons/Jalindra Lendlock
+  rotate: false
+  xy: 4, 200
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+NationPortraits/Lamplight
+  rotate: false
+  xy: 4, 4
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+ReligionIcons/Pelorianism
+  rotate: false
+  xy: 1044, 654
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Pelorianism
+  rotate: false
+  xy: 462, 574
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Airship
+  rotate: false
+  xy: 372, 195
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Airship-1
+  rotate: false
+  xy: 475, 510
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Airship-2
+  rotate: false
+  xy: 475, 446
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Builder
+  rotate: false
+  xy: 1947, 937
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Builder-1
+  rotate: false
+  xy: 1152, 673
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Builder-2
+  rotate: false
+  xy: 1842, 794
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Paladin
+  rotate: false
+  xy: 372, 465
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Paladin-1
+  rotate: false
+  xy: 372, 362
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Paladin-2
+  rotate: false
+  xy: 372, 259
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Prowler
+  rotate: false
+  xy: 1255, 689
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Prowler-1
+  rotate: false
+  xy: 1340, 689
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Prowler-2
+  rotate: false
+  xy: 1425, 689
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+UnitIcons/Airship
+  rotate: false
+  xy: 1518, 775
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Builder
+  rotate: false
+  xy: 936, 654
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Paladin
+  rotate: false
+  xy: 1626, 775
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Paladin2
+  rotate: false
+  xy: 4, 568
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+UnitIcons/Prowler
+  rotate: false
+  xy: 1734, 775
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Airship
+  rotate: false
+  xy: 462, 762
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Builder
+  rotate: false
+  xy: 726, 762
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Paladin
+  rotate: false
+  xy: 990, 762
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Prowler
+  rotate: false
+  xy: 1254, 762
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

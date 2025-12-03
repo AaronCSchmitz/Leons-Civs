@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Paladins",
+		"type": "Follower",
+		"uniques": ["May buy [Paladin] units with [Faith] [in cities following this religion]","[2] free [Paladin] units appear"]
+	},
+	{
+		"name": "Divine Builders",
+		"type": "Follower",
+		"uniques": ["May buy [Builder] units with [Faith] [in cities following this religion]","[2] free [Builder] units appear"]
+	}
+]

@@ -1,0 +1,76 @@
+[
+	{
+		"name": "Airship",
+		"unitType": "Helicopter",
+		"uniqueTo": "Lamplight",
+		"movement": 5,
+		"strength": 30,
+		"cost": 425,
+		"requiredTech": "Steam Power",
+		"upgradesTo": "Helicopter Gunship",
+		"obsoleteTech": "Computers",
+		"requiredResource": "Coal",
+		"uniques": [
+			"[+1] Sight",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"Unable to capture cities",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shipCannonVolley"
+	},
+	{
+		"name": "Prowler",
+		"unitType": "Armored",
+		"uniqueTo": "Lamplight",
+		"replaces": "Landship",
+		"movement": 4,
+		"strength": 65,
+		"cost": 350,
+		"requiredTech": "Combustion",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"promotions": ["March"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Paladin",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"religiousStrength": 1000,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["Holy Warrior II"],
+		"uniques": [
+			"Can Spread Religion <for [4] movement> <[2] times>",
+			//"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Builder",
+		"unitType": "Civilian",
+		//"uniqueTo": "Rendurn",
+		//"replaces": "Worker",
+		"movement": 2,
+		"uniques": [
+			"Can build [Land] improvements on tiles",
+			"Can instantly construct a [Rendurn] improvement <by consuming this unit> <hidden from users>",
+			"Comment [Can convert one tile into a different terrain type, after which this unit is consumed]",
+			"Automation is a primary action",
+			"Unbuildable"
+		],
+		"cost": 70
+	}
+]
