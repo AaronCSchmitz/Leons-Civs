@@ -3,7 +3,7 @@
 		"name": "Lamplight",
 		"leaderName": "Jalindra Lendlock",
 		"adjective": ["Lamplight"],
-		"startBias": ["Hill"],
+		"startBias": ["Hill","Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Jalindra Lendlock",
 		"favoredReligion": "Pelorianism",
@@ -12,7 +12,7 @@
 		"startIntroPart2": "President Jill, your people have elected you once more. Will to lead them through difficult times again? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your people will thank us for liberating them from the dark ages.",
-		"attacked": "You will not be remembered.",
+		"attacked": "History will not remember you.",
 		"defeated": "If we are to die, then we will die standing.",
 		"denounced": "Anything else?",
 		"introduction": "Behold the great nation of Lamplight. Please allow us to share our gift of civilization with you.",
@@ -35,59 +35,11 @@
 			"[+1 Culture, +1 Science] from every [Arsenal] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Military Base] <hidden from users>",
 			
-			"Gain [3] [Culture] <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			"Gain [0] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
+			"[+5]% [Culture] [in all cities] <for [30] turns> <upon declaring friendship> <hidden from users>",
+			"Gain [10] [Culture] <in [in all cities] cities> <upon declaring friendship> <hidden from users>",
 			
-			"Gain [7] [Culture] <upon declaring friendship> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
-			"Gain [1] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [19] [Culture] <upon declaring friendship> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
-			"Gain [3] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [38] [Culture] <upon declaring friendship> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
-			"Gain [5] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [50] [Culture] <upon declaring friendship> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
-			"Gain [7] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [101] [Culture] <upon declaring friendship> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
-			"Gain [15] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [162] [Culture] <upon declaring friendship> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
-			"Gain [24] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [250] [Culture] <upon declaring friendship> <during the [Information era]> <(modified by game speed)> <hidden from users>",
-			"Gain [37] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [353] [Culture] <upon declaring friendship> <during the [Future era]> <(modified by game speed)> <hidden from users>",
-			"Gain [53] [Culture] <in [in all cities] cities> <upon declaring friendship> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [5] [Science] <upon declaring a defensive pact> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			"Gain [1] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [15] [Science] <upon declaring a defensive pact> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
-			"Gain [2] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [40] [Science] <upon declaring a defensive pact> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
-			"Gain [6] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [100] [Science] <upon declaring a defensive pact> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
-			"Gain [15] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [200] [Science] <upon declaring a defensive pact> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
-			"Gain [30] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [400] [Science] <upon declaring a defensive pact> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
-			"Gain [60] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [600] [Science] <upon declaring a defensive pact> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
-			"Gain [90] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [825] [Science] <upon declaring a defensive pact> <during the [Information era]> <(modified by game speed)> <hidden from users>",
-			"Gain [125] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Information era]> <(modified by game speed)> <hidden from users>",
-			
-			"Gain [950] [Science] <upon declaring a defensive pact> <during the [Future era]> <(modified by game speed)> <hidden from users>",
-			"Gain [150] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <during the [Future era]> <(modified by game speed)> <hidden from users>",
+			"[+5]% [Science] [in all cities] <for [30] turns> <upon declaring a defensive pact> <hidden from users>",
+			"Gain [10] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <hidden from users>",	
 			
 			"Comment [Gain +1 [Culture] and +1 [Science] from all City Defense and Military Training buildings]",
 			"Comment [Gain [Culture] from every Declaration of Friendship]",
@@ -98,8 +50,7 @@
 		],
 		"cities": ["Dendrondia","Rendurn","Lydall","Kolkirk","Lindellion","Alverton","Ashvale","Nolstor","Wyxter","Csighd","Jexington","Noxsoll","Little Pelorvia","Lauromagne","Marchi","Wents","Goldvale","Silverton","Bronzebury"],
 		"spyNames": ["Monty","Rocket","Knott","Dark","Hobbes","Cindee","Reed","Vattik","Ramby","Kendra"]
-	}
-	,
+	},
 	{
 		"name": "Rendurn",
 		"leaderName": "Dendron",
