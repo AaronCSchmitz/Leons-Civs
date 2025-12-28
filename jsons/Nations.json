@@ -31,6 +31,8 @@
 			"[+1 Culture, +1 Science] from every [Military Academy] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Brandenburg Gate] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Walls] <hidden from users>",
+		//	doesn't improve city defensive rating, NOT a defensive building, sorry to myself 
+		//	"[+1 Culture, +1 Science] from every [Great Wall] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Castle] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Arsenal] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Military Base] <hidden from users>",
