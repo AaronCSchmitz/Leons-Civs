@@ -29,19 +29,20 @@
 			"[+1 Culture, +1 Science] from every [Barracks] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Armory] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Military Academy] <hidden from users>",
-			"[+1 Culture, +1 Science] from every [Brandenburg Gate] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Walls] <hidden from users>",
-		//	doesn't improve city defensive rating, NOT a defensive building, sorry to myself 
-		//	"[+1 Culture, +1 Science] from every [Great Wall] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Castle] <hidden from users>",
-			"[+1 Culture, +1 Science] from every [Alhambra] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Arsenal] <hidden from users>",
 			"[+1 Culture, +1 Science] from every [Military Base] <hidden from users>",
 			
-			"[+5]% [Culture] [in all cities] <for [30] turns> <upon declaring friendship> <hidden from users>",
+		//	"[+1 Culture, +1 Science] from every [Great Wall] <hidden from users>",
+		//	"[+1 Culture, +1 Science] from every [Alhambra] <hidden from users>",
+		//	"[+1 Culture, +1 Science] from every [Red Fort] <hidden from users>",
+		//	"[+1 Culture, +1 Science] from every [Brandenburg Gate] <hidden from users>",
+			
+			"[+5]% [Culture] <for [30] turns> <upon declaring friendship> <hidden from users>",
 			"Gain [10] [Culture] <in [in all cities] cities> <upon declaring friendship> <hidden from users>",
 			
-			"[+5]% [Science] [in all cities] <for [30] turns> <upon declaring a defensive pact> <hidden from users>",
+			"[+5]% [Science] <for [30] turns> <upon declaring a defensive pact> <hidden from users>",
 			"Gain [10] [Science] <in [in all cities] cities> <upon declaring a defensive pact> <hidden from users>",	
 			
 			"Comment [Gain +1 [Culture] and +1 [Science] from all City Defense and Military Training buildings]",
