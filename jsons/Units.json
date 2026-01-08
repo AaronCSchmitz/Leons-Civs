@@ -5,7 +5,7 @@
 		"uniqueTo": "Lamplight",
 		"movement": 5,
 		"strength": 30,
-		"cost": 425,
+		"cost": 225,
 		"requiredTech": "Steam Power",
 		"upgradesTo": "Helicopter Gunship",
 		"obsoleteTech": "Computers",
@@ -54,22 +54,27 @@
 		"uniques": [
 			"Can Spread Religion <for [4] movement> <[2] times>",
 			//"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>"
+			"Unbuildable",
+			"Religious Unit",
+			"Only available <when religion is enabled>"
 		],
 		"attackSound": "metalhit"
 	},
 	{
 		"name": "Builder",
 		"unitType": "Civilian",
-		//"uniqueTo": "Rendurn",
-		//"replaces": "Worker",
+	//	"uniqueTo": "Rendurn",
+	//	"replaces": "Worker",
 		"movement": 2,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"Can instantly construct a [Rendurn] improvement <by consuming this unit> <hidden from users>",
 			"Comment [Can convert one tile into a different terrain type, after which this unit is consumed]",
 			"Automation is a primary action",
-			"Unbuildable"
+			"Unbuildable",
+			"Can pass through impassable tiles <hidden from users>",
+			"[This Unit] loses [1] movement <upon entering a [Mountain] tile> <hidden from users>",
+			"Comment [Can pass through [Mountain] tiles as if they were [Hill] tiles]"
 		],
 		"cost": 70
 	}
