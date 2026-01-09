@@ -37,15 +37,15 @@
 		"name": "Magic Attack - Acid",
 		"uniques":[
 			"Degla",
-			"[Target Unit] gains the [Acid] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users>",
-			"Comment [Attacked units have reduced movement on their next turn]"
+			"[Target Unit] gains the [Acid] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
+			"Comment [Attacked units have -10% Strength when defending on their next turn]"
 		]
 	},
 	{
 		"name": "Magic Attack - Cold",
 		"uniques":[
 			"Degla",
-			"[Target Unit] gains the [Cold] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users>",
+			"[Target Unit] gains the [Cold] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
 			"Comment [Attacked units have reduced movement on their next turn]"
 		]
 	},
@@ -53,7 +53,7 @@
 		"name": "Magic Attack - Electric",
 		"uniques":[
 			"Degla",
-			"[Target Unit] gains the [Electric] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users>",
+			"[Target Unit] gains the [Electric] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
 			"Comment [Attacked units have -10% Strength when attacking on their next turn]"
 		]
 	},
@@ -61,8 +61,8 @@
 		"name": "Magic Attack - Fire",
 		"uniques":[
 			"Degla",
-			"[Target Unit] gains the [Fire] status for [1] turn(s) <upon damaging a [All] unit> <hidden from users>",
-			"Comment [Attacked units take 5 damage at the start of their next turn]"
+			"[Target Unit] gains the [Fire] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
+			"Comment [Attacked units take 5 damage at the end of their next turn]"
 		]
 	},
 	{
