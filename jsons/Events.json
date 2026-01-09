@@ -4,10 +4,57 @@
 		"text": "choose western man",
 		"presentation": "Alert",
 		"choices": [
-			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magic Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>"		] },
-			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magic Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>"		] },
-			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magic Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>"	] },
-			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magic Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>"		] }
+			{ "text": "Acid", 		
+				"uniques": [ 
+					"[This Unit] gains the [Magic Attack - Acid] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Acid]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units have -10% Strength when defending on their next turn]"
+				]
+			},
+			{ "text": "Cold",
+				"uniques": [
+					"[This Unit] gains the [Magic Attack - Cold] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Cold]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units lose 1 movement on their next turn]",
+					"Comment [Mounted units lose -2 movement instead]"
+				]
+			},
+			{ "text": "Electric",
+				"uniques": [
+					"[This Unit] gains the [Magic Attack - Electric] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Electric]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units have -10% Strength when attacking on their next turn]"
+				]
+			},
+			{ "text": "Fire",
+				"uniques": [
+					"[This Unit] gains the [Magic Attack - Fire] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Fire]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units take 5 damage at the end of their next turn]",
+					"Comment [Siege units take 10 damage instead]"
+				]
+			},
+			{ "text": "None",
+				"uniques": [
+					"Unavailable <for [Archery] units> <hidden from users>",
+					"Unavailable <for [Mounted] units> <hidden from users>",
+					"Unavailable <for [Scout] units> <hidden from users>",
+					"Unavailable <for [Sword] units> <hidden from users>",
+					"Comment [This unit cannot use magic]"
+				]
+			}
 		]
 	},
 // TEMPORARY MAGIC ATTACKS //
@@ -16,10 +63,48 @@
 		"text": "choose western man",
 		"presentation": "Alert",
 		"choices": [
-			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magus Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>"		] },
-			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magus Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>"		] },
-			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magus Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>"	] },
-			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magus Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>"		] }
+			{ "text": "Acid", 		
+				"uniques": [ 
+					"[This Unit] gains the [Magus Attack - Acid] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Acid]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units have -10% Strength when defending on their next turn]"
+				]
+			},
+			{ "text": "Cold",
+				"uniques": [
+					"[This Unit] gains the [Magus Attack - Cold] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Cold]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units lose 1 movement on their next turn]",
+					"Comment [Mounted units lose -2 movement instead]"
+				]
+			},
+			{ "text": "Electric",
+				"uniques": [
+					"[This Unit] gains the [Magus Attack - Electric] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Electric]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units have -10% Strength when attacking on their next turn]"
+				]
+			},
+			{ "text": "Fire",
+				"uniques": [
+					"[This Unit] gains the [Magus Attack - Fire] promotion <hidden from users>",
+					"Only available <for units without [Magic Attack - Fire]> <hidden from users>",
+					"Unavailable <for [Armored] units> <hidden from users>",
+					"Unavailable <for [Gunpowder] units> <hidden from users>",
+					"Unavailable <for [Siege] units> <hidden from users>",
+					"Comment [Attacked units take 5 damage at the end of their next turn]",
+					"Comment [Siege units take 10 damage instead]"
+				]
+			}
 		]
 	}
 ]
