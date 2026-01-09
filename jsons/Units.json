@@ -89,7 +89,7 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"promotions": ["Magic Attack - Ice"],
+		"promotions": [],
 		"uniques": [
 			"[1] additional attacks per turn",
 			//"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
