@@ -92,7 +92,7 @@
 		"promotions": ["Magic Attack"],
 		"uniques": [
 			"[1] additional attacks per turn",
-			"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
+			//"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
 			"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
 			"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
 		],

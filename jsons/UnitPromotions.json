@@ -31,6 +31,10 @@
 	},
 	{
 		"name": "Burning",
-		"uniques":["[Target Unit] takes [100] damage <every [1] turns>"]
+		"uniques":["[This Unit] takes [50] damage <on turn start>"]
+	},
+	{
+		"name": "Chilled",
+		"uniques":["[This Unit] loses [2] movement"]
 	}
 ]
