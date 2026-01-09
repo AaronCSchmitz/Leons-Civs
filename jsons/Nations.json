@@ -114,16 +114,22 @@
 		"outerColor": [127,0,255],
 		"innerColor": [255,255,255],
 		
-		"uniqueName": "Elven Eternity",
+		"uniqueName": "Elven Magic",
 		"uniques": [
-			"All newly-trained [Archery] units [in all cities] receive the [Magic Attack] promotion",
-			"All newly-trained [Mounted] units [in all cities] receive the [Magic Attack] promotion",
-			"All newly-trained [Scount] units [in all cities] receive the [Magic Attack] promotion",
-			"All newly-trained [Sword] units [in all cities] receive the [Magic Attack] promotion",
+			"[All] units gain the [Magic Attack] promotion <before turn number [1]> <hidden from users>"
+		
+			"All newly-trained [Archery] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
+			"All newly-trained [Mounted] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
+			"All newly-trained [Scount] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
+			"All newly-trained [Sword] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
 			
-			"Comment [All units heal every turn, even if they perform an action]",
-			"Free [Magus] appears",
-			"Free [Great Prophet] appears"
+			"Free [Magus] appears <hidden from users>",
+			
+			"Comment [All non-armored and non-gunpowder units choose from 1 of 4 magic elements to empower their attacks]",
+			"Comment [[Acid] lowers target's defense]",
+			"Comment [[Cold] lowers target's movement]",
+			"Comment [[Electric] lowers target's attack]",
+			"Comment [[Fire] deals damage over time]",
 		],
 		"cities": ["Jlellor"],
 		"spyNames": ["Oswald","Euler","Hopper","Sarsk","Trevan","Griselda","Gavlan","Magmabender","Ringo","Gus"]
