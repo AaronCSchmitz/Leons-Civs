@@ -2,12 +2,12 @@
 	{
 		"name": "Elven Magic",
 		"text": "choose western man",
-		"presentation": "Alert"
+		"presentation": "Alert",
 		"choices": [
-			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magic Attack - Acid] promotion",		"[This Unit] loses the [Magic Attack] promotion" ] },
-			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magic Attack - Cold] promotion",		"[This Unit] loses the [Magic Attack] promotion" ] },
-			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magic Attack - Electric] promotion",	"[This Unit] loses the [Magic Attack] promotion" ] },
-			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magic Attack - Fire] promotion",		"[This Unit] loses the [Magic Attack] promotion" ] },
+			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magic Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>" ] },
+			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magic Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>" ] },
+			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magic Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>" ] },
+			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magic Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>" ] }
 		]
 	}
 ]
