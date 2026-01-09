@@ -94,11 +94,7 @@
 			"[1] additional attacks per turn",
 			"Never appears as a Barbarian unit <hidden from users>",
 			"Comment [May choose 1 additonal magic element to empower their attacks each turn]",
-			"[This Unit] gains the [Magus Attack] promotion <upon turn start>",
-			"[This Unit] loses the [Magus Attack - Acid] promotion <upon turn start>",
-			"[This Unit] loses the [Magus Attack - Cold] promotion <upon turn start>",
-			"[This Unit] loses the [Magus Attack - Electric] promotion <upon turn start>",
-			"[This Unit] loses the [Magus Attack - Fire] promotion <upon turn start>"
+			"[This Unit] gains the [Magus Attack] promotion <upon turn start>"
 			//"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
 			//"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
 			//"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
