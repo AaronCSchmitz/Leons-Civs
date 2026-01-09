@@ -14,6 +14,10 @@
 		"uniques":["Can pass through impassable tiles"]
 	},
 	{
+		"name": "Preach",
+		"uniques":["Can Spread Religion <for [4] movement> <[1] times> <with the [Preach] promotion>"]
+	},
+	{
 		"name": "Magic Attack",
 		"uniques":["[+20]% Strength <vs [Armored] units>","[1] Range]"]
 	}
