@@ -12,5 +12,9 @@
 	{
 		"name": "Dwarven",
 		"uniques":["Can pass through impassable tiles"]
+	},
+	{
+		"name": "Magic Attack",
+		"uniques":["[+20]% Strength <vs [Armored] units>","[1] Range]"]
 	}
 ]

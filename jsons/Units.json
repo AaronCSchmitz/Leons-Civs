@@ -77,5 +77,23 @@
 			"Comment [Can pass through [Mountain] tiles as if they were [Hill] tiles]"
 		],
 		"cost": 70
-	}
+	},
+	{
+		"name": "Magus",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["Holy Warrior II"],
+		"uniques": [
+			"[1] additional attacks per turn",
+			"Gains the [Magic Attack] promotion <upon turn start>",
+			"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
+			"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
+		],
+		"attackSound": "metalhit"
+	},
 ]
