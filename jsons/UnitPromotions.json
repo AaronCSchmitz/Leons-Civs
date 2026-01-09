@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Magus Attack",
-		"uniques":["Triggers a [Magus Magic] event <for [0] movement> <removing the [Magus Attack] promotion/status> <only available for [Magus] units>"]
+		"uniques":["Triggers a [Magus Magic] event <for [0] movement> <removing the [Magus Attack] promotion/status>"]
 	},
 // PERMANENT MAGIC ATTACKS //
 	{
@@ -68,15 +68,14 @@
 	{
 		"name": "Magus Attack - Acid",
 		"uniques":[
-			"[Target Unit] gains the [Acid] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <only available for [Magus] units> <hidden from users>",
+			"[Target Unit] gains the [Acid] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
 			"Comment [Attacked units have -10% Strength when defending on their next turn]"
 		]
 	},
 	{
 		"name": "Magus Attack - Cold",
 		"uniques":[
-			"Only available <for [Magus] units>",
-			"[Target Unit] gains the [Cold] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <only available for [Magus] units> <hidden from users>",
+			"[Target Unit] gains the [Cold] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
 			"[This Unit] loses the [Magus Attack - Cold] promotion <upon turn end> <hidden from users>",
 			"Comment [Attacked units lose 1 movement on their next turn]",
 			"Comment [Mounted units lose 2 movement instead]"
@@ -85,14 +84,14 @@
 	{
 		"name": "Magus Attack - Electric",
 		"uniques":[
-			"[Target Unit] gains the [Electric] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <only available for [Magus] units> <hidden from users>",
+			"[Target Unit] gains the [Electric] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
 			"Comment [Attacked units have -10% Strength when attacking on their next turn]"
 		]
 	},
 	{
 		"name": "Magus Attack - Fire",
 		"uniques":[
-			"[Target Unit] gains the [Fire] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <only available for [Magus] units> <hidden from users>",
+			"[Target Unit] gains the [Fire] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <hidden from users>",
 			"Comment [Attacked units take 5 damage at the end of their next turn]",
 			"Comment [Siege units take 10 damage instead]"
 		]
