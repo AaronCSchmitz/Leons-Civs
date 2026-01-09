@@ -111,15 +111,16 @@
 		"tradeRequest": "You want to build, I want to build, it just makes sense.",
 		"declaringFriendship": "Let's forge an alliance!",
 		
-		"outerColor": [60,194,16],
-		"innerColor": [40,73,84],
+		"outerColor": [128,0,128],
+		"innerColor": [0,0,0],
 		
 		"uniqueName": "Elven Eternity",
 		"uniques": [
 			"Comment [All units heal every turn, even if they perform an action]",
-			"Free [Magus] appears"
+			"Free [Magus] appears",
+			"Free [Great Prophet] appears"
 		],
-		"cities": ["Elfy"],
+		"cities": ["Jlellor"],
 		"spyNames": ["Oswald","Euler","Hopper","Sarsk","Trevan","Griselda","Gavlan","Magmabender","Ringo","Gus"]
 	}
 ]
