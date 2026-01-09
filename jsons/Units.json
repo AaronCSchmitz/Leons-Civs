@@ -53,7 +53,7 @@
 		"promotions": ["Holy Warrior II","Warpriest"],
 		"uniques": [
 			"Comment [Can spread religion 1 time after defeating an enemy unit]",
-			"Can Spread Religion <for [4] movement> <[1] times> <hidden from users>",
+		//	"Can Spread Religion <for [4] movement> <[1] times> <hidden from users>",
 			"May enter foreign tiles without open borders",
 			"Unbuildable <hidden from users>",
 			"Never appears as a Barbarian unit <hidden from users>",
