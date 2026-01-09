@@ -50,14 +50,16 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"promotions": ["Holy Warrior II","Preach"],
+		"promotions": ["Holy Warrior II"],
 		"uniques": [
-			//"Can Spread Religion <for [4] movement> <[2] times>",
+			"Can Spread Religion <for [4] movement> <[9001] times> <removing the [Preach] promotion/status> <for units with [Preach]>",
+			"Can Spread Religion <for [4] movement> <[1] times>",
 			//"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[This Unit] gains the [Preach] promotion <upon defeating a [All] unit>",
 			"Unbuildable",
 			"Religious Unit",
-			"Only available <when religion is enabled>"
+			"Only available <when religion is enabled>",
+			"May enter foreign tiles without open borders"
 		],
 		"attackSound": "metalhit"
 	},
@@ -81,7 +83,7 @@
 	},
 	{
 		"name": "Magus",
-		"unitType": "Sword",
+		"unitType": "Archery",
 		"movement": 20,
 		"strength": 21,
 		"cost": 120,
