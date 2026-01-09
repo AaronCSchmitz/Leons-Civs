@@ -2,7 +2,7 @@
 	{
 		"name": "Paladins",
 		"type": "Follower",
-		"uniques": ["May buy [Paladin] units with [Faith] [in cities following this religion]","[2] free [Paladin] units appear","All newly built [Paladin] units [in all cities] gain the [Warpriest - Preach] promotion <hidden from users>"]
+		"uniques": ["May buy [Paladin] units with [Faith] [in cities following this religion]","[2] free [Paladin] units appear","All newly-trained [Paladin] units [in all cities] gain the [Warpriest - Preach] promotion <hidden from users>"]
 	},
 	{
 		"name": "Divine Builders",

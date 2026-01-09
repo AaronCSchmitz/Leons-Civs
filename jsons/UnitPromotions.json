@@ -17,7 +17,7 @@
 		"name": "Warpriest",
 		"uniques":[
 			"Comment [Can spread religion 1 time after defeating an enemy unit]",
-			"[This Unit] gains the [Warpriest - Preach] status <upon defeating a [All] unit> <hidden from users>",
+			"[This Unit] gains the [Warpriest - Preach] promotion <upon defeating a [All] unit> <hidden from users>",
 			"Can Spread Religion <for [2] movement> <[9001] times> <removing the [Warpriest - Preach] promotion/status> <for units with [Warpriest - Preach]> <hidden from users>"
 		]
 	},
