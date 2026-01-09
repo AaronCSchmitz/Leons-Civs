@@ -89,8 +89,9 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"promotions": ["Magic Attack II"],
+		"promotions": ["Magus Attack"],
 		"uniques": [
+			"Magus",
 			"[1] additional attacks per turn",
 			"Never appears as a Barbarian unit <hidden from users>",
 			"Comment [May choose 1 additonal magic element to empower their attacks each turn]"

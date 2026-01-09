@@ -118,12 +118,12 @@
 		"uniques": [
 			"[Military] units gain the [Magic Attack I] promotion <before turn number [1]> <hidden from users>",
 		
-			"All newly-trained [Archery] units [in all cities] receive the [Magic Attack I] promotion <hidden from users>",
-			"All newly-trained [Mounted] units [in all cities] receive the [Magic Attack I] promotion <hidden from users>",
-			"All newly-trained [Scount] units [in all cities] receive the [Magic Attack I] promotion <hidden from users>",
-			"All newly-trained [Sword] units [in all cities] receive the [Magic Attack I] promotion <hidden from users>",
+			"All newly-trained [Archery] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
+			"All newly-trained [Mounted] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
+			"All newly-trained [Scount] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
+			"All newly-trained [Sword] units [in all cities] receive the [Magic Attack] promotion <hidden from users>",
 
-			"All newly-trained [Magus] units [in all cities] receive the [Magic Attack II] promotion <hidden from users>",
+			//"All newly-trained [Magus] units [in all cities] receive the [Magus Attack] promotion <hidden from users>",
 			
 			"Free [Magus] appears <hidden from users>",
 			
