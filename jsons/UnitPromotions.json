@@ -27,6 +27,10 @@
 	},
 	{
 		"name": "Magic Attack",
-		"uniques":["[+50]% Strength <vs [Armored] units>","[1] Range"]
+		"uniques":["[+50]% Strength <vs [Armored] units>","[Target Unit] gains the [Burning] status for [1] turn(s)"]
+	},
+	{
+		"name": "Burning",
+		"uniques":["[Target Unit] takes [100] damage <every [1] turns>"]
 	}
 ]

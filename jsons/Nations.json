@@ -111,7 +111,7 @@
 		"tradeRequest": "You want to build, I want to build, it just makes sense.",
 		"declaringFriendship": "Let's forge an alliance!",
 		
-		"outerColor": [128,0,128],
+		"outerColor": [127,0,255],
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Elven Eternity",
