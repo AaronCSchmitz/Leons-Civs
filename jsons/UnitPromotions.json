@@ -14,8 +14,15 @@
 		"uniques":["Can pass through impassable tiles"]
 	},
 	{
-		"name": "Preach",
-		"uniques":[]
+		"name": "Warpriest",
+		"uniques":[
+			"[This Unit] gains the [Warpriest - Preach] promotion <upon defeating a [All] unit> <hidden from users>",
+			"Can Spread Religion <for [4] movement> <[9001] times> <removing the [Warpriest - Preach] promotion/status> <for units with [Warpriest - Preach]> <hidden from users>"
+		]
+	},
+	{
+		"name": "Warpriest - Preach",
+		"uniques":["Comment [Unit is ready to spread religion]"]
 	},
 	{
 		"name": "Magic Attack",
