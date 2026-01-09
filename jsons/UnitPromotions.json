@@ -35,7 +35,7 @@
 	},
 	{
 		"name": "Magic Attack",
-		"uniques":["Triggers a [Elven Magic] event"]
+		"uniques":["Triggers a [Elven Magic] event <for [0] movement> <removing the [Magic Attack] promotion/status>"]
 	},
 	{
 		"name": "Magic Attack - Acid",
