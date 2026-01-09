@@ -26,15 +26,56 @@
 		"uniques":["Comment [Unit is ready to spread religion]"]
 	},
 	{
+		"name": "Magic Attack - Fire",
+		"uniques":[
+			"Degla",
+			"[Target Unit] gains the [Burning] status for [1] turn(s) <upon damaging a [all] unit> <hidden from users>",
+			"Comment [Attacked units take 5 damage at the start of their next turn]"
+		]
+	},
+	{
 		"name": "Magic Attack",
-		"uniques":["[+50]% Strength <vs [Armored] units>","[Target Unit] gains the [Burning] status for [1] turn(s)"]
+		"uniques":["Triggers a [Elven Magic] event"]
+	},
+	{
+		"name": "Magic Attack - Acid",
+		"uniques":[
+			"Degla",
+			"[Target Unit] gains the [Chilled] status for [2] turn(s) <upon damaging a [all] unit> <hidden from users>",
+			"Comment [Attacked units have reduced movement on their next turn]"
+		]
+	},
+	{
+		"name": "Magic Attack - Cold",
+		"uniques":[
+			"Degla",
+			"[Target Unit] gains the [Chilled] status for [2] turn(s) <upon damaging a [all] unit> <hidden from users>",
+			"Comment [Attacked units have reduced movement on their next turn]"
+		]
+	},
+	{
+		"name": "Magic Attack - Electricity",
+		"uniques":[
+			"Degla",
+			"[Target Unit] gains the [Shocked] status for [2] turn(s) <upon damaging a [all] unit> <hidden from users>",
+			"Comment [Attacked units have -10% Strength when attacking on their next turn]"
+		]
 	},
 	{
 		"name": "Burning",
-		"uniques":["[This Unit] takes [50] damage <on turn start>"]
+		"uniques":["[This Unit] takes [50] damage <upon turn start>"]
 	},
 	{
 		"name": "Chilled",
-		"uniques":["[This Unit] loses [2] movement"]
+		"uniques":[
+			"[This Unit] loses [1] movement <for [Infantry] units>",
+			"[This Unit] loses [2] movement <for [Mounted] units>"
+		]
+	},
+	{
+		"name": "Shocked",
+		"uniques":[
+			"[-100]% Strength <when attacking>"
+		]
 	}
 ]

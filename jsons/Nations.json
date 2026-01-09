@@ -116,6 +116,11 @@
 		
 		"uniqueName": "Elven Eternity",
 		"uniques": [
+			"All newly-trained [Archery] units [in all cities] receive the [Magic Attack] promotion",
+			"All newly-trained [Mounted] units [in all cities] receive the [Magic Attack] promotion",
+			"All newly-trained [Scount] units [in all cities] receive the [Magic Attack] promotion",
+			"All newly-trained [Sword] units [in all cities] receive the [Magic Attack] promotion",
+			
 			"Comment [All units heal every turn, even if they perform an action]",
 			"Free [Magus] appears",
 			"Free [Great Prophet] appears"

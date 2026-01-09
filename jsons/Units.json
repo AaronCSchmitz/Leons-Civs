@@ -82,19 +82,19 @@
 	},
 	{
 		"name": "Magus",
-		"unitType": "Archery",
+		"unitType": "Sword",
 		"movement": 20,
-		"strength": 21,
+		"strength": 10,
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"promotions": ["Magic Attack"],
+		"promotions": ["Magic Attack - Ice"],
 		"uniques": [
 			"[1] additional attacks per turn",
 			//"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
-			"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
-			"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
+			//"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
+			//"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
 		],
 		"attackSound": "metalhit"
 	},
