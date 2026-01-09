@@ -98,5 +98,5 @@
 			//"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
 		],
 		"attackSound": "metalhit"
-	},
+	}
 ]
