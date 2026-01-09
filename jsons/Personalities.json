@@ -30,7 +30,7 @@
 			"Exploration": 5
 		}
 	},
-		{
+	{
 		"name": "Dendron",
 		"production": 10,
 		"food": 5,
@@ -59,6 +59,37 @@
 			"Order": 7,
 			"Aesthetics": 5,
 			"Exploration": 3
+		}
+	},
+	{
+		"name": "The Immortal Emperor",
+		"production": 5,
+		"food": 5,
+		"gold": 5,
+		"science": 5,
+		"culture": 5,
+		"happiness": 5,
+		"faith": 5,
+		"military": 10,
+		"aggressive": 10,
+		"declareWar": 10,
+		"commerce": 5,
+		"diplomacy": 5,
+		"loyal": 0,
+		"expansion": 10,
+		"priorities": {
+			"Tradition": 5,
+			"Liberty": 2,
+			"Honor": 8,
+			"Commerce": 5,
+			"Patronage": 5,
+			"Piety": 5,
+			"Rationalism": 2,
+			"Freedom": 2,
+			"Autocracy": 8,
+			"Order": 5,
+			"Aesthetics": 5,
+			"Exploration": 8
 		}
 	}
 ]
