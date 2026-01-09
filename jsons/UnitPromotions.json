@@ -38,8 +38,7 @@
 		"uniques":[
 			"Degla",
 			"[Target Unit] gains the [Acid] status for [2] turn(s) <when attacking> <hidden from users>",
-			"Comment [Attacked units have reduced movement on their next turn]",
-			"Only available <for units without [Magic Attack - Acid]>"
+			"Comment [Attacked units have reduced movement on their next turn]"
 		]
 	},
 	{
@@ -47,8 +46,7 @@
 		"uniques":[
 			"Degla",
 			"[Target Unit] gains the [Cold] status for [2] turn(s) <when attacking> <hidden from users>",
-			"Comment [Attacked units have reduced movement on their next turn]",
-			"Only available <for units without [Magic Attack - Cold]>"
+			"Comment [Attacked units have reduced movement on their next turn]"
 		]
 	},
 	{
@@ -56,8 +54,7 @@
 		"uniques":[
 			"Degla",
 			"[Target Unit] gains the [Electric] status for [2] turn(s) <when attacking> <hidden from users>",
-			"Comment [Attacked units have -10% Strength when attacking on their next turn]",
-			"Only available <for units without [Magic Attack - Electric]>"
+			"Comment [Attacked units have -10% Strength when attacking on their next turn]"
 		]
 	},
 	{
@@ -65,14 +62,13 @@
 		"uniques":[
 			"Degla",
 			"[Target Unit] gains the [Fire] status for [1] turn(s) <when attacking> <hidden from users>",
-			"Comment [Attacked units take 5 damage at the start of their next turn]",
-			"Only available <for units without [Magic Attack - Fire]>"
+			"Comment [Attacked units take 5 damage at the start of their next turn]"
 		]
 	},
 	{
 		"name": "Acid",
 		"uniques":[
-			"[-100]% Strength <when defendning>"
+			"[-100]% Strength <when defending>"
 		]
 	},
 	{
