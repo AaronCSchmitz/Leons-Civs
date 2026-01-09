@@ -43,17 +43,18 @@
 	{
 		"name": "Paladin",
 		"unitType": "Sword",
-		"movement": 2,
+		"movement": 20,
 		"strength": 21,
 		"religiousStrength": 1000,
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-		"promotions": ["Holy Warrior II"],
+		"promotions": ["Holy Warrior II","Preach"],
 		"uniques": [
-			"Can Spread Religion <for [4] movement> <[2] times>",
+			//"Can Spread Religion <for [4] movement> <[2] times>",
 			//"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"Gains the [Preach] promotion <upon defeating a [All] unit>",
 			"Unbuildable",
 			"Religious Unit",
 			"Only available <when religion is enabled>"
@@ -81,7 +82,7 @@
 	{
 		"name": "Magus",
 		"unitType": "Sword",
-		"movement": 2,
+		"movement": 20,
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
