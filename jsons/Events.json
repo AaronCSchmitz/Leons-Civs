@@ -4,22 +4,22 @@
 		"text": "choose western man",
 		"presentation": "Alert",
 		"choices": [
-			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magic Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>" ] },
-			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magic Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>" ] },
-			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magic Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>" ] },
-			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magic Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>" ] }
+			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magic Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>"		] },
+			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magic Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>"		] },
+			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magic Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>"	] },
+			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magic Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>"		] }
 		]
 	},
-// TEMPORARY MAGIC ATTACKS ///
+// TEMPORARY MAGIC ATTACKS //
 	{
 		"name": "Magus Magic",
 		"text": "choose western man",
 		"presentation": "Alert",
 		"choices": [
-			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magus Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>",		"<only available for [Magus] units>" ] },
-			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magus Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>",		"<only available for [Magus] units>" ] },
-			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magus Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>",	"<only available for [Magus] units>" ] },
-			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magus Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>",		"<only available for [Magus] units>" ] }
+			{ "text": "Acid", 		"uniques": [ "[This Unit] gains the [Magus Attack - Acid] promotion",		"Only available <for units without [Magic Attack - Acid]>"		] },
+			{ "text": "Cold", 		"uniques": [ "[This Unit] gains the [Magus Attack - Cold] promotion",		"Only available <for units without [Magic Attack - Cold]>"		] },
+			{ "text": "Electric", 	"uniques": [ "[This Unit] gains the [Magus Attack - Electric] promotion",	"Only available <for units without [Magic Attack - Electric]>"	] },
+			{ "text": "Fire", 		"uniques": [ "[This Unit] gains the [Magus Attack - Fire] promotion",		"Only available <for units without [Magic Attack - Fire]>"		] }
 		]
 	}
 ]

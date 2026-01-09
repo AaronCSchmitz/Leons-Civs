@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "Magic Attack",
-		"uniques":["Triggers a [Elven Magic] event <for [0] movement> <removing the [Magic Attacks] promotion/status>"]
+		"uniques":["Triggers a [Elven Magic] event <for [0] movement> <removing the [Magic Attack] promotion/status>"]
 	},
 	{
 		"name": "Magus Attack",
@@ -77,7 +77,7 @@
 		"uniques":[
 			"Only available <for [Magus] units>",
 			"[Target Unit] gains the [Cold] status for [2] turn(s) <upon damaging a [All] unit> <when attacking> <only available for [Magus] units> <hidden from users>",
-			"[This Unit] loses the [Magus Attack - Cold] promotion <upon turn end> <hidden from users>"
+			"[This Unit] loses the [Magus Attack - Cold] promotion <upon turn end> <hidden from users>",
 			"Comment [Attacked units lose 1 movement on their next turn]",
 			"Comment [Mounted units lose 2 movement instead]"
 		]
