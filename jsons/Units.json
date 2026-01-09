@@ -43,7 +43,7 @@
 	{
 		"name": "Paladin",
 		"unitType": "Sword",
-		"movement": 20,
+		"movement": 2,
 		"strength": 22,
 		"religiousStrength": 1000,
 		"cost": 120,
@@ -52,7 +52,6 @@
 		"obsoleteTech": "Gunpowder",
 		"promotions": ["Holy Warrior II","Warpriest"],
 		"uniques": [
-			"[+1000]% Strength <when attacking> <in cities with a [foreign] religion>",
 			"Comment [Can spread religion 1 time after defeating an enemy unit]",
 			"Can Spread Religion <for [2] movement> <[1] times> <hidden from users>",
 			"May enter foreign tiles without open borders",
@@ -92,7 +91,8 @@
 		"obsoleteTech": "Gunpowder",
 		"promotions": [],
 		"uniques": [
-			"[1] additional attacks per turn"
+			"[1] additional attacks per turn",
+			"Never appears as a Barbarian unit <hidden from users>"
 			//"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
 			//"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
 			//"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
