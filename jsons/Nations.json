@@ -56,7 +56,7 @@
 		"spyNames": ["Monty","Rocket","Knott","Dark","Hobbes","Cindee","Reed","Vattik","Ramby","Kendra"]
 	},
 	{
-		"name": "Rendurn",
+		"name": "Rendurn - WIP",
 		"leaderName": "Dendron",
 		"adjective": ["Dwarven"],
 		"startBias": ["Mountain","Avoid [Coast]"],
@@ -90,7 +90,7 @@
 		"spyNames": ["Oswald","Euler","Hopper","Sarsk","Trevan","Griselda","Gavlan","Magmabender","Ringo","Gus"]
 	},
 	{
-		"name": "Degla",
+		"name": "Degla - WIP",
 		"leaderName": "The Immortal Emperor",
 		"adjective": ["Elven"],
 		"startBias": ["Coast","Forest"],
@@ -101,15 +101,15 @@
 		"startIntroPart1": "kill",
 		"startIntroPart2": "kill",
 		
-		"declaringWar": "You are simply inferior",
-		"attacked": "",
-		"defeated": "Build something to celebrate your victory, and remember our defeat.",
-		"denounced": "",
-		"introduction": "Surface dwellers! Are they friendly?",
-		"neutralHello": "May your dreams be monumental!",
-		"hateHello": "To thine own self, be true.",
-		"tradeRequest": "You want to build, I want to build, it just makes sense.",
-		"declaringFriendship": "Let's forge an alliance!",
+		"declaringWar": "You are simply inferior!",
+		"attacked": "lol",
+		"defeated": "ggez",
+		"denounced": "yew succ",
+		"introduction": "lel git rekt n00b",
+		"neutralHello": "die",
+		"hateHello": "die",
+		"tradeRequest": "trade",
+		"declaringFriendship": "friendship is magic",
 		
 		"outerColor": [127,0,255],
 		"innerColor": [255,255,255],
@@ -125,13 +125,13 @@
 			
 			"Free [Magus] appears <hidden from users>",
 			
-			"Comment [All non-armored and non-gunpowder units choose from 1 of 4 magic elements to empower their attacks]",
+			"Comment [All Archery, Sword, and Mounted units choose from 1 of 4 magic elements to empower their attacks (Armored, Gunpowder, and Siege units are excluded)]",
 			"Comment [[Acid] lowers target's defense]",
 			"Comment [[Cold] lowers target's movement]",
 			"Comment [[Electric] lowers target's attack]",
-			"Comment [[Fire] deals damage over time]",
+			"Comment [[Fire] deals damage over time]"
 		],
-		"cities": ["Jlellor"],
-		"spyNames": ["Oswald","Euler","Hopper","Sarsk","Trevan","Griselda","Gavlan","Magmabender","Ringo","Gus"]
+		"cities": ["Jlellor","Jllelland","Juztapose","Jexafril","Jlol","JJJ"],
+		"spyNames": ["Valen","Virren","Lluthor","Lleland","Jerrifor","J"]
 	}
 ]

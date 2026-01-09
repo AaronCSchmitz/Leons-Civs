@@ -52,13 +52,14 @@
 		"obsoleteTech": "Gunpowder",
 		"promotions": ["Holy Warrior II","Warpriest"],
 		"uniques": [
+			"[+1000]% Strength <when attacking> <in cities with a [foreign] religion>",
 			"Comment [Can spread religion 1 time after defeating an enemy unit]",
 			"Can Spread Religion <for [2] movement> <[1] times> <hidden from users>",
 			"May enter foreign tiles without open borders",
 			"Unbuildable <hidden from users>",
 			"Never appears as a Barbarian unit <hidden from users>",
 			"Religious Unit",
-			"Only available <when religion is enabled>",
+			"Only available <when religion is enabled>"
 		],
 		"attackSound": "metalhit"
 	},
@@ -91,7 +92,7 @@
 		"obsoleteTech": "Gunpowder",
 		"promotions": [],
 		"uniques": [
-			"[1] additional attacks per turn",
+			"[1] additional attacks per turn"
 			//"[This Unit] gains the [Magic Attack] promotion <upon turn start>",
 			//"[This Unit] loses the [Magic Attack] promotion <upon damaging a [All] unit>",
 			//"[This Unit] loses the [Magic Attack] promotion <upon turn end>"
