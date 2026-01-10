@@ -17,7 +17,8 @@
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"Unable to capture cities",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit",
+			"[This Unit] gains the [Hovering] promotion <if [Helicopters Can Fly] is enabled>"
 		],
 		"attackSound": "shipCannonVolley"
 	},
