@@ -10,7 +10,7 @@
 		"upgradesTo": "Helicopter Gunship",
 		"obsoleteTech": "Computers",
 		"requiredResource": "Coal",
-		"promotions": [],
+		"promotions": ["Hovering"],
 		"uniques": [
 			"[+1] Sight",
 			"No defensive terrain bonus",
