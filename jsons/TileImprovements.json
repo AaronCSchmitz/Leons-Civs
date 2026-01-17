@@ -14,7 +14,7 @@
 	},
 	{
 		"name": "Desert",
-		"terrainsCanBeBuiltOn": ["Coast","Hill","Plains","Lakes"],
+		"terrainsCanBeBuiltOn": ["Coast","Plains","Lakes"],
 		"uniques": [
 			"Turn this tile into a [Desert] tile",
 			"Only available <in tiles without [resource]>",
@@ -35,7 +35,7 @@
 			"Turn this tile into a [Desert] tile",
 			"Turn this tile into a [Hill] tile",
 			"Only available <in [Desert] tiles>",
-			"Only available <in tiles with [Hill]>",
+			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "Tundra",
-		"terrainsCanBeBuiltOn": ["Coast","Hill","Plains","Snow"],
+		"terrainsCanBeBuiltOn": ["Coast","Plains","Snow"],
 		"uniques": [
 			"Turn this tile into a [Tundra] tile",
 			"Only available <in tiles without [resource]>",
@@ -65,7 +65,7 @@
 			"Turn this tile into a [Tundra] tile",
 			"Turn this tile into a [Hill] tile",
 			"Only available <in [Tundra] tiles>",
-			"Only available <in tiles with [Hill]>",
+			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
@@ -92,7 +92,7 @@
 		"uniques": [
 			"Turn this tile into a [Snow] tile",
 			"Turn this tile into a [Hill] tile",
-			"Only available <in tiles with [Hill]>",
+			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Only available <in [Tundra] tiles>",
 			"Rendurn",
@@ -121,7 +121,7 @@
 			"Turn this tile into a [Plains] tile",
 			"Turn this tile into a [Hill] tile",
 			"Only available <in [Plains] tiles>",
-			"Only available <in tiles with [Hill]>",
+			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Grassland",
-		"terrainsCanBeBuiltOn": ["Hill","Plains"],
+		"terrainsCanBeBuiltOn": ["Plains"],
 		"uniques": [
 			"Turn this tile into a [Grassland] tile",
 			"Only available <in tiles without [resource]>",
