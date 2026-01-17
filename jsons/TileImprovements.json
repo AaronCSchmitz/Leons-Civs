@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Desert Hill",
-		"terrainsCanBeBuiltOn": ["Plains","Tundra","Hill"],
+		"terrainsCanBeBuiltOn": ["Plains","Tundra"],
 		"uniques": [
 			"Turn this tile into a [Desert] tile",
 			"Turn this tile into a [Hill] tile",
@@ -60,7 +60,7 @@
 	},
 	{
 		"name": "Tundra Hill",
-		"terrainsCanBeBuiltOn": ["Desert","Plains","Snow","Hill"],
+		"terrainsCanBeBuiltOn": ["Desert","Plains","Snow"],
 		"uniques": [
 			"Turn this tile into a [Tundra] tile",
 			"Turn this tile into a [Hill] tile",
@@ -88,7 +88,7 @@
 	},
 	{
 		"name": "Snow Hill",
-		"terrainsCanBeBuiltOn": ["Tundra","Hill"],
+		"terrainsCanBeBuiltOn": ["Tundra"],
 		"uniques": [
 			"Turn this tile into a [Snow] tile",
 			"Turn this tile into a [Hill] tile",
@@ -116,7 +116,7 @@
 	},
 	{
 		"name": "Plains Hill",
-		"terrainsCanBeBuiltOn": ["Desert","Tundra","Snow","Grasslands","Hill"],
+		"terrainsCanBeBuiltOn": ["Desert","Tundra","Snow","Grassland"],
 		"uniques": [
 			"Turn this tile into a [Plains] tile",
 			"Turn this tile into a [Hill] tile",
@@ -144,7 +144,7 @@
 	},
 	{
 		"name": "Grassland Hill",
-		"terrainsCanBeBuiltOn": ["Plains","Hill"],
+		"terrainsCanBeBuiltOn": ["Plains"],
 		"uniques": [
 			"Turn this tile into a [Grassland] tile",
 			"Turn this tile into a [Hill] tile",
