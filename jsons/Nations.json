@@ -84,7 +84,7 @@
 		"uniques": [
 			"[+2 Culture, +2 Gold, +2 Production] from every [Mountain]",
 			"Comment [Has access to a unique [Worker] unit with the ability to convert one tile into a different terrain type, after which the unit is consumed]",
-			"[10] free [Worker] units appear"
+			"[5] free [Builder] units appear"
 		],
 		"cities": ["The Sky Citadel","Old Dendrondia","Delver's Dale","Mordania","Baraküzer","Dracülen","Oragent","Kündabõgin","Balfallas","Dol","Duke"],
 		"spyNames": ["Oswald","Euler","Hopper","Sarsk","Trevan","Griselda","Gavlan","Magmabender","Ringo","Gus"]
