@@ -30,11 +30,11 @@
 	},
 	{
 		"name": "Desert Hill",
-		"terrainsCanBeBuiltOn": ["Desert","Hill"],
+		"terrainsCanBeBuiltOn": ["Plains","Tundra","Hill"],
 		"uniques": [
 			"Turn this tile into a [Desert] tile",
 			"Turn this tile into a [Hill] tile",
-			"Only available <in [Desert] tiles>",
+		//	"Only available <in [Desert] tiles>",
 			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
@@ -60,11 +60,11 @@
 	},
 	{
 		"name": "Tundra Hill",
-		"terrainsCanBeBuiltOn": ["Tundra","Hill"],
+		"terrainsCanBeBuiltOn": ["Desert","Plains","Snow","Hill"],
 		"uniques": [
 			"Turn this tile into a [Tundra] tile",
 			"Turn this tile into a [Hill] tile",
-			"Only available <in [Tundra] tiles>",
+		//	"Only available <in [Tundra] tiles>",
 			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
@@ -93,11 +93,11 @@
 			"Turn this tile into a [Snow] tile",
 			"Turn this tile into a [Hill] tile",
 			"Only available <in [Hill] tiles>",
-			"Only available <in tiles without [resource]>",
 			"Only available <in [Tundra] tiles>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -116,11 +116,11 @@
 	},
 	{
 		"name": "Plains Hill",
-		"terrainsCanBeBuiltOn": ["Plains","Hill"],
+		"terrainsCanBeBuiltOn": ["Desert","Tundra","Snow","Grasslands","Hill"],
 		"uniques": [
 			"Turn this tile into a [Plains] tile",
 			"Turn this tile into a [Hill] tile",
-			"Only available <in [Plains] tiles>",
+			//"Only available <in [Plains] tiles>",
 			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
@@ -144,11 +144,11 @@
 	},
 	{
 		"name": "Grassland Hill",
-		"terrainsCanBeBuiltOn": ["Grassland","Hill"],
+		"terrainsCanBeBuiltOn": ["Plains","Hill"],
 		"uniques": [
 			"Turn this tile into a [Grassland] tile",
 			"Turn this tile into a [Hill] tile",
-			"Only available <in [Grassland] tiles>",
+			"Only available <in [Plains] tiles>",
 			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
 			"Rendurn",
