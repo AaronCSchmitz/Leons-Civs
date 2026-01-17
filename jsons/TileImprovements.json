@@ -4,11 +4,13 @@
 		"terrainsCanBeBuiltOn": ["Desert","Ocean","Tundra"],
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [River]>",
 			"Only available <in tiles adjacent to [Coast] tiles>",
 			"Can be built outside your borders",
 			"Rendurn",
+			"Can be built outside your borders",
+			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -17,7 +19,6 @@
 		"terrainsCanBeBuiltOn": ["Coast","Plains","Lakes"],
 		"uniques": [
 			"Turn this tile into a [Desert] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles adjacent to [Land] tiles>",
 			"Only available <in tiles without [Grassland]>",
 			"Only available <in tiles without [Snow]>",
@@ -25,21 +26,7 @@
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
-			"Will not be displayed in Civilopedia"
-		]
-	},
-	{
-		"name": "Desert Hill",
-		"terrainsCanBeBuiltOn": ["Plains","Tundra"],
-		"uniques": [
-			"Turn this tile into a [Desert] tile",
-			"Turn this tile into a [Hill] tile",
-		//	"Only available <in [Desert] tiles>",
-			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
-			"Rendurn",
-			"Can be built outside your borders",
-			"Cannot be built on [Enemy] tiles",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -48,28 +35,13 @@
 		"terrainsCanBeBuiltOn": ["Coast","Plains","Snow"],
 		"uniques": [
 			"Turn this tile into a [Tundra] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles adjacent to [Land] tiles>",
 			"Only available <in tiles without [Grassland]>",
 			"Unavailable <in tiles adjacent to [Ocean] tiles> <hidden from users>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
-			"Will not be displayed in Civilopedia"
-		]
-	},
-	{
-		"name": "Tundra Hill",
-		"terrainsCanBeBuiltOn": ["Desert","Plains","Snow"],
-		"uniques": [
-			"Turn this tile into a [Tundra] tile",
-			"Turn this tile into a [Hill] tile",
-		//	"Only available <in [Tundra] tiles>",
-			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
-			"Rendurn",
-			"Can be built outside your borders",
-			"Cannot be built on [Enemy] tiles",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -78,21 +50,6 @@
 		"terrainsCanBeBuiltOn": ["Tundra"],
 		"uniques": [
 			"Turn this tile into a [Snow] tile",
-			"Only available <in tiles without [resource]>",
-			"Only available <in [Tundra] tiles>",
-			"Rendurn",
-			"Can be built outside your borders",
-			"Cannot be built on [Enemy] tiles",
-			"Will not be displayed in Civilopedia"
-		]
-	},
-	{
-		"name": "Snow Hill",
-		"terrainsCanBeBuiltOn": ["Tundra"],
-		"uniques": [
-			"Turn this tile into a [Snow] tile",
-			"Turn this tile into a [Hill] tile",
-			"Only available <in [Hill] tiles>",
 			"Only available <in [Tundra] tiles>",
 			"Rendurn",
 			"Can be built outside your borders",
@@ -106,26 +63,11 @@
 		"terrainsCanBeBuiltOn": ["Desert","Grassland","Tundra"],
 		"uniques": [
 			"Turn this tile into a [Plains] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Snow]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
-			"Will not be displayed in Civilopedia"
-		]
-	},
-	{
-		"name": "Plains Hill",
-		"terrainsCanBeBuiltOn": ["Desert","Tundra","Snow","Grassland"],
-		"uniques": [
-			"Turn this tile into a [Plains] tile",
-			"Turn this tile into a [Hill] tile",
-			//"Only available <in [Plains] tiles>",
-			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
-			"Rendurn",
-			"Can be built outside your borders",
-			"Cannot be built on [Enemy] tiles",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -134,26 +76,11 @@
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"uniques": [
 			"Turn this tile into a [Grassland] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in [Plains] tiles>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
-			"Will not be displayed in Civilopedia"
-		]
-	},
-	{
-		"name": "Grassland Hill",
-		"terrainsCanBeBuiltOn": ["Plains"],
-		"uniques": [
-			"Turn this tile into a [Grassland] tile",
-			"Turn this tile into a [Hill] tile",
-			"Only available <in [Plains] tiles>",
-			"Only available <in [Hill] tiles>",
 			"Only available <in tiles without [resource]>",
-			"Rendurn",
-			"Can be built outside your borders",
-			"Cannot be built on [Enemy] tiles",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -162,7 +89,6 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
 		"uniques": [
 			"Turn this tile into a [Lakes] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Hill]> <hidden from users>",
 			"Only available <in tiles without [Lakes]>",
 			"Unavailable <in tiles adjacent to [Coast] tiles> <hidden from users>",
@@ -170,6 +96,7 @@
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -178,12 +105,11 @@
 		"terrainsCanBeBuiltOn": ["Grassland"],
 		"uniques": [
 			"Turn this tile into a [Marsh] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Marsh]> <hidden from users>",
-			"Unavailable <in tiles adjacent to [Ocean] tiles> <hidden from users>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -192,11 +118,11 @@
 		"terrainsCanBeBuiltOn": ["Desert","Grassland","Plains","Tundra","Snow"],
 		"uniques": [
 			"Turn this tile into a [Hill] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Hill]> <hidden from users>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -205,12 +131,12 @@
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"uniques": [
 			"Turn this tile into a [Mountain] tile",
-			"Only available <in tiles without [resource]>",
 			"Unavailable <in tiles adjacent to [Mountain] tiles> <hidden from users>",
 			"Comment [Must not be adjacent to another [Mountain] tile]",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -220,10 +146,10 @@
 		"uniques": [
 			"Turn this tile into a [Tundra] tile",
 			"Turn this tile into a [Hill] tile",
-			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -232,11 +158,11 @@
 		"terrainsCanBeBuiltOn": ["Coast"],
 		"uniques": [
 			"Turn this tile into a [Atoll] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Atoll]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -245,12 +171,12 @@
 		"terrainsCanBeBuiltOn": ["Desert"],
 		"uniques": [
 			"Turn this tile into a [Oasis] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Hill]> <hidden from users>",
 			"Only available <in tiles without [Oasis]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -259,13 +185,13 @@
 		"terrainsCanBeBuiltOn": ["Desert"],
 		"uniques": [
 			"Turn this tile into a [Flood plains] tile",
-			"Only available <in tiles without [resource]>",
 			"Only available <in tiles without [Hill]> <hidden from users>",
 			"Only available <in tiles without [Flood plains]>",
 			"Only available <in tiles adjacent to [Water] tiles>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -273,10 +199,10 @@
 		"name": "Remove Atoll",
 		"terrainsCanBeBuiltOn": ["Atoll"],
 		"uniques": [
-			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -284,10 +210,10 @@
 		"name": "Remove Hill",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"uniques": [
-			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -295,10 +221,10 @@
 		"name": "Remove Oasis",
 		"terrainsCanBeBuiltOn": ["Oasis"],
 		"uniques": [
-			"Only available <in tiles without [resource]>",
 			"Rendurn",
 			"Can be built outside your borders",
 			"Cannot be built on [Enemy] tiles",
+			"Only available <in tiles without [resource]>",
 			"Will not be displayed in Civilopedia"
 		]
 	}
