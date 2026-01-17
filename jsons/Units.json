@@ -10,6 +10,7 @@
 		"upgradesTo": "Helicopter Gunship",
 		"obsoleteTech": "Computers",
 		"requiredResource": "Coal",
+		"promotions": ["Hovering"],
 		"uniques": [
 			"[+1] Sight",
 			"No defensive terrain bonus",
@@ -17,7 +18,7 @@
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"Unable to capture cities",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit",
 		],
 		"attackSound": "shipCannonVolley"
 	},
